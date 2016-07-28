@@ -10,6 +10,7 @@ var Main = (props) => {
           MainComponent
         </div>
       </div>
+      {props.children}
     </div>
   );
 };

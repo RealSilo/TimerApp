@@ -19,6 +19,9 @@ module.exports = {
     alias: {
       Main: 'app/components/main.js',
       Nav: 'app/components/nav.js',
+      Countdown: 'app/components/countdown.js',
+      Timer: 'app/components/timer.js',
+      Clock: 'app/components/clock.js',
       ErrorModal: 'app/components/error_modal.js',
       applicationStyles: 'app/styles/app.scss',
     },
